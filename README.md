@@ -1,6 +1,6 @@
 # AssumeRole.sh
 
-Provides tooling for easy role assume management on AWS.
+Provides CLI tooling for easy sts:AssumeRole management
 
 # Usage
 
