@@ -1,5 +1,7 @@
 # AssumeRole.sh
 
+> Original script and inspiration: https://github.com/danktec/AssumeRole
+
 A pure bash CLI tool for easy sts:AssumeRole management.
 
 Its only dependencies are `aws, jq, tail`
