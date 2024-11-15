@@ -1,6 +1,8 @@
 # AssumeRole.sh
 
-Provides CLI tooling for easy sts:AssumeRole management
+A pure bash CLI tool for easy sts:AssumeRole management.
+
+Its only dependencies are `aws, jq, tail`
 
 # Usage
 
